@@ -2,8 +2,8 @@ This project is a GPU-implementation of influence estimation.
 
 Amo G. Tong
 
-Data Communication and Data Management Lab
+Computational Data Science Lab
 
-The University of Texas at Dallas
+The University of Delaware
 
 guangmot@gmail.com
